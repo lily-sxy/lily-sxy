@@ -1,4 +1,4 @@
-<img width="485" alt="Screen Shot 2024-04-08 at 6 25 36 PM" src="https://github.com/lily-sxy/lily-sxy/assets/134454052/5beeb8ca-7650-48db-80f3-15e265cf4c77"><h1 align="center" style="text-decoration: none;">Hello World! This is Xinyi(lily) Song</h1>
+<h1 align="center" style="text-decoration: none;">Hello World! This is Xinyi(lily) Song</h1>
 <p align="center"><i>Please free to checkout on my project and interests. </i></p>
 
 Hi my name is lily, I am looking for a job, I am interested in Software Developer
@@ -19,5 +19,6 @@ Hi my name is lily, I am looking for a job, I am interested in Software Develope
 ## Projects
 I am also doing a UI desgin during my unversity, please check:
 Finacial Literacy App UI desgin: https://www.figma.com/proto/QDrwPVXeA80Kl9T3DJIVsQ/csc318-UPDATED-Hi-Fi-Prototype?node-id=3-4809&starting-point-node-id=53%3A354&mode=design&t=KuO4bcvtUKYIQW1f-1
+<div><img width="485" alt="Screen Shot 2024-04-08 at 6 25 36 PM" src="https://github.com/lily-sxy/lily-sxy/assets/134454052/5beeb8ca-7650-48db-80f3-15e265cf4c77"/></div>
 
 
