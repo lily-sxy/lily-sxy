@@ -1,14 +1,20 @@
 <h1 align="center" style="text-decoration: none;">Hello World! This is Xinyi(lily) Song</h1>
-<p align="center"><i>Please free to checkout on my project and interests. </i></p>
 
-Hi my name is lily, I am looking for a job, I am interested in Software Developer
+<div align="center">
+	<a href="https://github.com/lily-sxy"><img src="https://img.icons8.com/bubbles/50/000000/github.png" alt="GitHub"/></a>
+	<a href="https://www.linkedin.com/in/xinyi-song-379a08179/"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
+  <a><img width="50" height="50" src="https://img.icons8.com/bubbles/50/hello-kitty.png" alt="hello-kitty"/></a>
+  
+</div>
+
+Hi my name is lily. I am looking for a job. I am interested in Software Developer. Please feel free to connect:)
 
 ## Tech Stack
 
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/-React-ffb400?style=flat-square&logo=react&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/-Python-ffb400?style=flat-square&logo=python&logoColor=white" />
-   <img alt="Java" src="https://img.shields.io/badge/-Java-ffb400?style=flat-square&logo=openjdk&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/-Java-ffb400?style=flat-square&logo=openjdk&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-ffb400?style=flat-square&logo=javascript&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-ffb400?style=flat-square&logo=mysql&logoColor=white" />
   <img alt="HTML5" src="https://img.shields.io/badge/-HTML5-ffb400?style=flat-square&logo=html5&logoColor=white" />
